@@ -3,5 +3,5 @@ int main(){
 
     system ("pause");
 
-    return 023;
+    return 0;
 }
